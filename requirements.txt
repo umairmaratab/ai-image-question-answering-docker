@@ -3,3 +3,4 @@ Pillow
 python-multipart
 torch
 transformers
+pre-commit
