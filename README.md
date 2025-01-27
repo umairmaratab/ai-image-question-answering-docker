@@ -25,3 +25,10 @@ If you want to run the app in the docker environment what you only need is `dock
 
 ## Testing
 - You can use `localhost:8000/docs` for testing or `Postman` if you are comfortable with that or any other tool.
+
+**When the server is running in docker:**
+![docker_app](https://github.com/umairmaratab/ai-image-question-answering-docker/blob/main/extras/doc_images/git-terminal.png)
+
+**This is how API docs will look like:**
+![api docs](https://github.com/umairmaratab/ai-image-question-answering-docker/blob/main/extras/doc_images/docs_image.png)
+
