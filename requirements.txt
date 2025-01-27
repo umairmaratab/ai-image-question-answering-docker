@@ -1,0 +1,5 @@
+fastapi[standard]
+Pillow
+python-multipart
+torch
+transformers
