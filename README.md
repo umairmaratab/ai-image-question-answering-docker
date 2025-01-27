@@ -11,7 +11,8 @@ A fully-integrated application that leverages the Transformer-based VILT model f
 - Clone the repository.
 - Install the requirements via `pip install -r requirements.txt`
 - Once the requirements successfully gets installed execute this to run the app: `fastapi dev app.py`
-- After that go to `localhost:8000/docs`
+- After that go to `localhost:8000/docs` to test the api or use `Postman` if you want
+- To see the openapi docs go to `localhost:8000/redoc`
 
 #### Docker setup
 
